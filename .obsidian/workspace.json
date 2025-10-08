@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test 8.md",
+                "file": "test dossier 2/test 8.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test9.md",
+                "file": "test dossier 2/test9.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test10.md",
+                "file": "test dossier 2/test10.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test 11.md",
+                "file": "test dossier 2/test 11.md",
                 "mode": "source",
                 "source": false
               },
@@ -335,23 +335,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "d4b396482ea672b5",
+  "active": "42d268cd0cad2788",
   "lastOpenFiles": [
+    "test dossier 2",
+    "test dossier",
     "02.typography/default.md",
     "02.typography",
     "01.home/default.md",
     "01.home",
-    "test9.md",
-    "test 11.md",
-    "test10.md",
-    "test 8.md",
-    "test 4.md",
-    "test 7.md",
-    "test 6.md",
-    "Test 3.md",
-    "test5.md",
-    "test1.md",
-    "test 2.md",
+    "test dossier 2/test9.md",
+    "test dossier 2/test 11.md",
+    "test dossier 2/test10.md",
+    "test dossier 2/test 8.md",
+    "test dossier/test 4.md",
+    "test dossier/test 7.md",
+    "test dossier/test 6.md",
+    "test dossier/Test 3.md",
+    "test dossier 2/test5.md",
+    "test dossier 2/test1.md",
+    "test dossier/test 2.md",
     "Bienvenue.md"
   ]
 }
