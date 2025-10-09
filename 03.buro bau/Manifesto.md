@@ -1,1 +1,6 @@
+---
+title: "Manifesto"
+visible: true
+---
+
 test 2 jkhycgiduoizkjlnsqbsvgjyiuhijknbjvhcghfyguhiknb,nhvjyguhijknbn,hjgfyguhkbn;jv,hjyguhnb,gcjhfyguhb,cgjfyguhiknbjvhjfyguhikbghyiokjhjcgfyuhvhcjfytuihkbjvhfyyuojhkjhfyity!uhjkhvyfutèy!ihjhyfutèiyghyfutè!yçi
