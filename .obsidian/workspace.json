@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.articles/S01E02.md",
+                "file": "01.home/Default.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S01E02"
+              "title": "Default"
             }
           }
         ],
@@ -307,7 +307,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,8 +324,8 @@
   },
   "active": "b7c97077e1fc0122",
   "lastOpenFiles": [
-    "02.articles/S01E01.md",
     "02.articles/S01E02.md",
+    "02.articles/S01E01.md",
     "01.home/Default.md",
     "05.contact/Contact.md",
     "04.projets/Instututionnel.md",
