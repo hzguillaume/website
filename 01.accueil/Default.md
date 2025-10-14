@@ -2,14 +2,6 @@
 title: Home
 body_classes: title-center title-h1h2
 ---
----
-title: "Accueil"
-template: default
-summary: "BÜRO BAU explore la tension entre pensée et fabrication."
-brain: 0.5
-hands: 0.5
----
-
 # BÜRO BAU  
 ### Faire et apprendre à faire
 
