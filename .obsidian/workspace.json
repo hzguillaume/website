@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.accueil/default.md",
+                "file": "03.projets/design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "default"
+              "title": "design"
             }
           }
         ]
@@ -183,16 +183,17 @@
   },
   "active": "e072d3cca1cac8bd",
   "lastOpenFiles": [
-    "05.contact/default.md",
-    "04.journal/notes-a-moi-meme.md",
+    "02.studio/Parcours.md",
+    "02.studio/methodologie.md",
+    "02.studio/manifeste.md",
+    "01.accueil/default.md",
+    "05.contact/defaultd.md",
     "04.journal/saison-1.md",
+    "04.journal/notes.md",
     "03.projets/recherche.md",
     "03.projets/pedagogie.md",
     "03.projets/design.md",
-    "02.studio/parcours.md",
-    "02.studio/methode.md",
-    "02.studio/manifeste.md",
-    "01.accueil/default.md",
+    "02.studio/parcours perso.md",
     "Sans titre",
     "06.Test/06.Test.md",
     "06.Test",

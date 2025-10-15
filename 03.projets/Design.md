@@ -1,5 +1,5 @@
 ---
-title: "Manière de travailler"
+title: Design
 visible: true
 ---
 gg

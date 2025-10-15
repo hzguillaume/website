@@ -1,5 +1,5 @@
 ---
-title: "Manifesto"
+title: pedagogie
 visible: true
 ---
 gg
